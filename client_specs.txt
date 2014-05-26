@@ -1,0 +1,22 @@
+Brochure-like website
+No pictures - use placeholders
+	email photos later
+Pix of outside, inside and amenities
+Include pricing 
+	client thinks this is a main draw
+No copy about apt. 
+	Write description
+	Highlight pool
+	Describe proposed amenities
+Location is not the best
+	Highlight public transit
+Organize at least 2 pages of information
+
+Use bootstrap
+
+Studio - bare bones $500
+1 BR/1 BA - $750
+1 BR/1 BA - carpet/blinds/shower curtain - $950
+2 BR/1 BA - view of the pool and all of the above - $1350
+
+Leases are month - month except 2BR - 2 1/2 years.
